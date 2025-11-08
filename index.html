@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Real-Time Chat App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="banner">
+    <h1 class="neon-text">💬 Real-Time Chat App</h1>
+    <button id="toggle-theme">🌙</button>
+  </div>
+
+  <div class="chat-container" id="chat-container">
+    <div class="chat-box" id="chat-box"></div>
+
+    <div class="typing-indicator" id="typing-indicator">🤖 Bot is typing...</div>
+
+    <div class="chat-input">
+      <input type="text" id="message-input" placeholder="Type your message..." />
+      <button id="send-btn">Send</button>
+      <button id="clear-btn">Clear Chat</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
