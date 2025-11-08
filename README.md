@@ -15,5 +15,3 @@ Clear Chat Functionality: Users can clear the chatbox at any time.
 Smooth Animations: Messages fade in, and the chat scrolls smoothly for an engaging UI.
 
 Interactive Chatbot: Provides friendly responses for greetings, questions, small talk, and jokes.
-
-This project demonstrates front-end development skills, including DOM manipulation, CSS animations, responsive UI design, localStorage usage, and basic chatbot logic. It’s perfect for showcasing real-time interactivity in a modern web interface.
